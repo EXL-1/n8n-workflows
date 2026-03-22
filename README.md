@@ -350,4 +350,6 @@ API call. The workflow sums all dividend payments over the trailing
 
 ## 📄 License
 
-MIT
+MIT License — Copyright (c) 2025 [Lucas Malik](https://github.com/EXL-1)
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this workflow with attribution.
